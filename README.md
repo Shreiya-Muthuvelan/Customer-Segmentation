@@ -18,40 +18,40 @@ Additionally, a **Power BI dashboard** was created to visualize key insights, tr
 ## 🧠 ML Workflow
 
 
-### 1. 🗃️ Data Collection
+### 1. Data Collection
 - Dataset downloaded from Kaggle: **Customer Personality Analysis**
 - Format: `.csv` file extracted from ZIP
 
-### 2. 🧹 Data Preprocessing
+### 2. Data Preprocessing
 - Removed unnecessary columns (`ID`, `Z_CostContact`, `Z_Revenue`, etc.)
 - Converted `Dt_Customer` to datetime format
 - Dropped rows with missing values
 - Filtered out outlier ages (`Age > 90`)
 
-### 3. 🛠️ Feature Engineering
+### 3. Feature Engineering
 - Derived `Age` from `Year_Birth`
 - Calculated `Years_Shopping` from `Dt_Customer`
 - Combined product spendings into a `Spent` feature
 - Calculated `Children` by summing `Kidhome` and `Teenhome`
 - Simplified and encoded categorical features like `Marital_Status` and `Education`
 
-### 4. ⚖️ Data Scaling
+### 4. Data Scaling
 - Dropped marketing response-related columns not needed for clustering
 - Applied `StandardScaler` to normalize numeric features
 
-### 5. 📉 Dimensionality Reduction
+### 5. Dimensionality Reduction
 - Used **PCA** (Principal Component Analysis) to reduce features to 2D for visualization
 
-### 6. 📊 Clustering
+### 6. Clustering
 - Implemented **KMeans Clustering** on the scaled data
 - Determined optimal number of clusters using the **Elbow Method**
 - Assigned cluster labels to each customer
 
-### 7. 🔍 Cluster Analysis & Interpretation
+### 7. Cluster Analysis & Interpretation
 - Analyzed key statistics per cluster to derive customer personas
 - Generated segment-specific business recommendations
 
-### 8. 📈 Visualization
+### 8. Visualization
 - Created an interactive **Power BI Dashboard** to:
   - Visualize customer segments
   - Compare features across clusters
@@ -71,3 +71,5 @@ Additionally, a **Power BI dashboard** was created to visualize key insights, tr
 - Power BI
 
 ---
+## 🪪 License
+MIT License © Shreiya Muthuvelan See [LICENSE](LICENSE) for more details.
