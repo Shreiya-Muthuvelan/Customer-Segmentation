@@ -54,7 +54,6 @@ Additionally, a **Power BI dashboard** was created to visualize key insights, tr
 - Created an interactive **Power BI Dashboard** to:
   - Visualize customer segments
   - Compare features across clusters
-  - Display actionable insights for business stakeholders
 
 ---
 
