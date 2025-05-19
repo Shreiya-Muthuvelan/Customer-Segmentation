@@ -46,15 +46,13 @@ Additionally, a **Power BI dashboard** was created to visualize key insights, tr
 - Determined optimal number of clusters using the **Elbow Method**
 - Assigned cluster labels to each customer
 
-### 7. 🔍 Cluster Analysis & Interpretation
-- Analyzed key statistics per cluster to derive customer personas
-- Generated segment-specific business recommendations
+---
+## 📄 Full Analysis & Strategy
+-  [Read the Full Report](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer_Segmentation_Report.pdf)
+---
 
-### 8. 📈 Visualization
-- Created an interactive **Power BI Dashboard** to:
-  - Visualize customer segments
-  - Compare features across clusters
-
+## 🖥️ Power BI Dashboard
+- [View Dashboard](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer%20Segmentation%20and%20Purchase%20Insights%20Dashboard.pdf)
 ---
 
 ## 🗂️ Technologies Used
