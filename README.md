@@ -48,11 +48,12 @@ Additionally, a **Power BI dashboard** was created to visualize key insights, tr
 
 ---
 ## 📄 Full Analysis & Strategy
--  [Read the Full Report](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer_Segmentation_Report.pdf)
+-  [Read the Report](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer_Segmentation_Report.pdf)
 ---
 
 ## 🖥️ Power BI Dashboard
-- [View Dashboard](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer%20Segmentation%20and%20Purchase%20Insights%20Dashboard.pdf)
+- [Dashboard Preview](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer%20Segmentation%20and%20Purchase%20Insights%20Dashboard.pdf)
+- **[Download .pbix file](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer%20Segmentation%20and%20Purchase%20Insights%20Dashboard.pbix)** to explore the full interactive version in Power BI Desktop.
 ---
 
 ## 🗂️ Technologies Used
