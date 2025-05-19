@@ -47,13 +47,16 @@ Additionally, a **Power BI dashboard** was created to visualize key insights, tr
 - Assigned cluster labels to each customer
 
 ---
-## 📄 Full Analysis & Strategy
--  [Read the Report](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer_Segmentation_Report.pdf)
+
+## 📊 Dashboard Preview
+### [Dashboard Preview](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer%20Segmentation%20and%20Purchase%20Insights%20Dashboard.pdf)  
+### [Download the interactive .pbix file](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer%20Segmentation%20and%20Purchase%20Insights%20Dashboard.pbix)
+
 ---
 
-## 🖥️ Power BI Dashboard
-- [Dashboard Preview](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer%20Segmentation%20and%20Purchase%20Insights%20Dashboard.pdf)
-- **[Download .pbix file](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer%20Segmentation%20and%20Purchase%20Insights%20Dashboard.pbix)** to explore the full interactive version in Power BI Desktop.
+## 📄 Cluster Insights & Strategy Report
+### 📥 [View PDF Report](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer_Segmentation_Report.pdf)
+
 ---
 
 ## 🗂️ Technologies Used
