@@ -54,10 +54,6 @@ Additionally, a **Power BI dashboard** was created to visualize key insights, tr
 
 ---
 
-## 📄 Cluster Insights & Strategy Report
-[View PDF Report](https://github.com/Shreiya-Muthuvelan/Customer-Segmentation/blob/main/Customer_Segmentation_Report.pdf)
-
----
 
 ## 🗂️ Technologies Used
 - Python
